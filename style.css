@@ -48,11 +48,11 @@ ul li img {
 }
 
 #nabidka article {
-  float: left; margin-left: 2rem; width: 16rem; margin-right: 2rem;
+  float: left; margin-left: 2rem; width: 18rem; margin-right: 2rem;
 }
 
 #nabidka article h2 {
-  font-family: sans-serif; font-size: 1.75rem;
+  font-family: sans-serif; font-size: 1.75rem; text-align: center;
 }
 
 #nabidka article h4 {
@@ -60,7 +60,7 @@ ul li img {
 }
 
 #nabidka article img {
-  height: 9rem;
+  height: 11rem;
 }
 
 @media(max-width: 930px) {
