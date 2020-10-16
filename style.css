@@ -43,7 +43,7 @@ ul li img {
 }
 
 #nabidka article {
-  float: left; margin-left: 2.6%; width: 18rem; margin-right: 2.6%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); padding: 0.6rem;
+  float: left; margin-left: 2.6%; width: 18rem; margin-right: 2.6%; box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); padding-top: 0.3rem; padding-bottom: 0.4rem; padding-left: 1rem; padding-right: 1rem;
 }
 
 #nabidka article h2 {
