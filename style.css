@@ -31,7 +31,7 @@ ul li img {
 }
 
 .posledni {
-  margin-right: 1rem
+  margin-right: 2.25rem
 }
 
 #motto {
@@ -63,6 +63,10 @@ ul li img {
 }
 
 @media(max-width: 930px) {
+  ul {
+    position: static;
+  }
+
   .sm {
     float: left; margin-top: 1rem; margin-left: 16%;
   }
