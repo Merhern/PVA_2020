@@ -85,6 +85,10 @@ ul li img {
     height: 2.5rem; width: auto;
   }
 
+  .active {
+    color: #DA291C; border-bottom: 4px solid #FFC72C; border-top: 4px solid #FFC72C; padding-top: 0.1rem; padding-bottom: 0.1rem; margin-top: 1rem;
+  }
+
   #motto {
     margin-top: 0; padding-top: 1rem; padding-left: 3%; padding-right: 3%;
   }
