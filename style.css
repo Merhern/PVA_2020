@@ -1,9 +1,5 @@
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  margin-top: 1.25rem;
+  list-style-type: none; margin: 0; padding: 0; overflow: hidden; margin-top: 1.25rem;
 }
 
 li {
@@ -11,24 +7,15 @@ li {
 }
 
 li a {
-  display: block;
-  color: black;
-  text-align: center;
-  margin-left: 2rem;
-  text-decoration: none;
-  font-size: 2rem;
-  font-family: sans-serif;
+  display: block; color: black; text-align: center; margin-left: 2rem; text-decoration: none; font-size: 2rem; font-family: sans-serif;
 }
 
 li a:hover {
-  color: red;
-  border-bottom: 4px solid yellow;
+  color: red; border-bottom: 4px solid yellow;
 }
 
 .active {
-  color: red;
-  border-bottom: 4px solid yellow;
-
+  color: red; border-bottom: 4px solid yellow;
 }
 
 ul li img {
@@ -44,7 +31,7 @@ ul li img {
 }
 
 p {
-  font-size: 1.8rem; 
+  font-size: 1.8rem; text-align: center; font-family: sans-serif;
 }
 
 #nabidka {
@@ -67,10 +54,13 @@ p {
   height: 11rem;
 }
 
+#nabidka article p {
+  font-family: sans-serif; font-size: 1.35rem; text-align: justify;
+}
+
 @media(max-width: 930px) {
   .sm {
-    float: left; margin-top: 1rem;
-    margin-left: 16%;
+    float: left; margin-top: 1rem; margin-left: 16%;
   }
 
   li {
@@ -78,8 +68,7 @@ p {
   }
 
   li a {
-    margin: 0;
-    padding-top: 1rem;
+    margin: 0; padding-top: 1rem;
   }
 
 
