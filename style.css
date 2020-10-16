@@ -1,5 +1,5 @@
 ul {
-  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #ffff; width: 100%;  border-bottom: 5px solid yellow; padding: 0.8rem;
+  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #ffff; width: 100%;  border-bottom: 5px solid yellow; padding-top: 0.8rem;
 }
 
 li {
@@ -23,7 +23,7 @@ ul li img {
 }
 
 .sm {
-  float: right;
+  float: right; margin-left: 1rem;
 }
 
 .sm a img {
