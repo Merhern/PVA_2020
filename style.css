@@ -78,7 +78,11 @@ ul li img {
   }
 
   .sm {
-    float: left; margin-top: 1rem; margin-left: 16%;
+    float: left; margin-top: 1rem; margin-left: 16%; width: 33.33333%; margin-left: 0; margin-right: 0;
+  }
+
+  .sm a img {
+    height: 2.5rem; width: auto;
   }
 
   #motto {
