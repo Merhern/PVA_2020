@@ -1,5 +1,9 @@
+body {
+  width: 100%
+}
+
 ul {
-  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #27251F; width: 100%; padding-top: 0.8rem;
+  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #27251F; width: 100%; padding-top: 0.8rem; left: 0
 }
 
 li {
@@ -39,7 +43,7 @@ ul li img {
 }
 
 #nabidka article {
-  float: left; margin-left: 2.6%; width: 18rem; margin-right: 2.6%;
+  float: left; margin-left: 2.6%; width: 18rem; margin-right: 2.6%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #nabidka article h2 {
