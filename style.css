@@ -88,12 +88,12 @@ ul li img {
   }
 }
 
-@media(max-width: 450px;) {
+@media(max-width: 550px;) {
   .sm a img {
     height: 3.1rem;
   }
 
   #nabidka article {
-    float: none;
+    float: none; margin-left: 10%; width: 80%;
   }
 }
