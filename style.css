@@ -30,8 +30,8 @@ ul li img {
   height: 2.5rem; margin-left: 0; margin-right: 0.9rem;
 }
 
-p {
-  font-size: 1.8rem; text-align: center; font-family: sans-serif;
+#motto {
+  font-size: 1.8rem; text-align: center; font-family: sans-serif; border-bottom: 4px solid yellow;
 }
 
 #nabidka {
@@ -55,7 +55,7 @@ p {
 }
 
 #nabidka article p {
-  font-family: sans-serif; font-size: 1.35rem; text-align: justify;
+  font-family: serif; font-size: 1.35rem; text-align: justify;
 }
 
 @media(max-width: 930px) {
