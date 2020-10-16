@@ -1,5 +1,5 @@
 ul {
-  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #ffff; width: 100%;  border-bottom: 5px solid #27251F; padding-top: 0.8rem;
+  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #27251F; width: 100%; padding-top: 0.8rem;
 }
 
 li {
@@ -27,7 +27,7 @@ ul li img {
 }
 
 .sm a img {
-  height: 2.5rem; margin-left: 0; margin-right: 1.5rem;
+  height: 2.5rem; margin-left: 0; padding-right: 1.5rem;
 }
 
 #motto {
