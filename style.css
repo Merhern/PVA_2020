@@ -31,11 +31,7 @@ ul li img {
 }
 
 #motto {
-<<<<<<< HEAD
-  font-size: 1.8rem; text-align: center; font-family: sans-serif; border-bottom: 5px solid yellow; border-top: 5px solid red; padding: 0.8rem;
-=======
-  font-size: 1.8rem; text-align: center; font-family: sans-serif; border-bottom: 5px solid yellow; border-top: 5px solid yellow; padding: 0.8rem;
->>>>>>> 5facc6d9c35639b88df7fbbdf5b29c067a96a928
+  font-size: 1.8rem; text-align: center; font-family: sans-serif; border-bottom: 5px solid yellow; border-top: 5px solid red; padding: 0.8rem; mt: 4rem
 }
 
 #nabidka {
