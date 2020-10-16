@@ -1,5 +1,5 @@
 ul {
-  list-style-type: none; margin: 0; padding: 0; overflow: hidden; margin-top: 1.25rem; position: fixed; top: 0; background-color: #ffff; width: 100%;
+  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #ffff; width: 100%;  border-bottom: 5px solid yellow; padding: 0.8rem;
 }
 
 li {
@@ -31,7 +31,7 @@ ul li img {
 }
 
 #motto {
-  font-size: 1.8rem; text-align: center; font-family: sans-serif; border-bottom: 5px solid red; border-top: 5px solid yellow; padding: 0.8rem; margin-top: 4rem;
+  font-size: 1.8rem; text-align: center; font-family: sans-serif; border-bottom: 5px solid red; margin-top: 4.3rem;
 }
 
 #nabidka {
