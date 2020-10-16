@@ -108,6 +108,6 @@ ul li img {
   }
 
   #nabidka article {
-    float: none; margin-left: 10%; width: 75%;
+    float: none; margin-left: 9.5%; width: 75%; padding-left: 3%; padding-right: 3%;
   }
 }
