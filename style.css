@@ -3,7 +3,8 @@ body {
 }
 
 ul {
-  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #27251F; width: 100%; padding-top: 0.8rem; left: 0
+  list-style-type: none; margin: 0; padding: 0; overflow: hidden; position: fixed; top: 0; background-color: #27251F; width: 100%; padding-top: 0.8rem;
+  left: 0
 }
 
 li {
@@ -35,7 +36,8 @@ ul li img {
 }
 
 #motto {
-  font-size: 1.8rem; text-align: center; font-family: sans-serif; border-bottom: 5px solid #DA291C; margin-top: 4.3rem; padding-top: 0.6rem; padding-bottom: 0.6rem;
+  font-size: 1.8rem; text-align: center; font-family: sans-serif; border-bottom: 5px solid #DA291C; margin-top: 4.3rem; padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
 }
 
 #nabidka {
@@ -43,8 +45,8 @@ ul li img {
 }
 
 #nabidka article {
-  float: left; margin-left: 2%; width: 18rem; margin-right: 2%; box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); padding-top: 0.3rem;
-  padding-bottom: 0.4rem; padding-left: 1rem; padding-right: 1rem; margin-bottom: 2.9rem;
+  float: left; margin-left: 2%; width: 18rem; margin-right: 2%; box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding-top: 0.3rem; padding-bottom: 0.4rem; padding-left: 1rem; padding-right: 1rem; margin-bottom: 2.9rem;
 }
 
 #nabidka article h2 {
@@ -71,6 +73,10 @@ ul li img {
     position: initial; margin-left: 0; width: 100%
   }
 
+  ul li img {
+    margin-left: 0rem; margin-right: 0rem; margin-bottom: 0.6rem; text-align: center;
+  }
+
   .sm {
     float: left; margin-top: 1rem; margin-left: 16%;
   }
@@ -94,6 +100,6 @@ ul li img {
   }
 
   #nabidka article {
-    float: none; margin-left: 10%; width: 80%;
+    float: none; margin-left: 10%; width: ;
   }
 }
