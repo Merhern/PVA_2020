@@ -62,7 +62,7 @@ ul li img {
   font-family: serif; font-size: 1.35rem; text-align: justify;
 }
 
-@media(max-width: 930px) {
+@media(max-width: 1000px) {
   ul {
     position: static;
   }
