@@ -48,7 +48,7 @@ ul li img {
 }
 
 #nabidka article {
-  float: left; margin-left: 2rem; width: 18rem; margin-right: 2rem;
+  float: left; margin-left: 7%; width: 18rem; margin-right: 7%;
 }
 
 #nabidka article h2 {
@@ -76,5 +76,9 @@ ul li img {
   li a {
     margin: 0;
     padding-top: 1rem;
+  }
+
+  #nabidka article {
+    float: left; margin-left: 2rem; width: 18rem; margin-right: 2rem;
   }
 }
