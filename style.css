@@ -1,3 +1,38 @@
+@media(max-width: 550px;) {
+  .sm a img {
+    height: 3.1rem;
+  }
+
+  #nabidka article {
+    float: none; margin-left: 10%; width: 80%;
+  }
+}
+
+@media(max-width: 1000px) {
+  body {
+    margin: auto;
+  }
+  ul {
+    position: initial; margin-left: 0; width: 100%
+  }
+
+  .sm {
+    float: left; margin-top: 1rem; margin-left: 16%;
+  }
+
+  #motto {
+    margin-top: 0; padding-top: 1rem; padding-left: 3%; padding-right: 3%;
+  }
+
+  li {
+    float: none;
+  }
+
+  li a {
+    margin: 0; padding-top: 1rem;
+  }
+}
+
 body {
   width: 100%
 }
@@ -61,39 +96,4 @@ ul li img {
 
 #nabidka article p {
   font-family: serif; font-size: 1.35rem; text-align: justify;
-}
-
-@media(max-width: 1000px) {
-  body {
-    margin: auto;
-  }
-  ul {
-    position: initial; margin-left: 0; width: 100%
-  }
-
-  .sm {
-    float: left; margin-top: 1rem; margin-left: 16%;
-  }
-
-  #motto {
-    margin-top: 0; padding-top: 1rem; padding-left: 3%; padding-right: 3%;
-  }
-
-  li {
-    float: none;
-  }
-
-  li a {
-    margin: 0; padding-top: 1rem;
-  }
-}
-
-@media(max-width: 550px;) {
-  .sm a img {
-    height: 3.1rem;
-  }
-
-  #nabidka article {
-    float: none; margin-left: 10%; width: 80%;
-  }
 }
